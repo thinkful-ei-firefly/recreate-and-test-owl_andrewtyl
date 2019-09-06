@@ -88,5 +88,5 @@ const STORE = {
             type: 'leave-stage',
             timestamp: 1548852724247
         }
-    ];
+    ]
 }
